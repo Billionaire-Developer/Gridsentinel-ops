@@ -1,0 +1,421 @@
+{
+  "metadata": {
+    "source": "Nigerian Electricity Regulatory Commission (NERC)",
+    "report_title": "Second Quarter 2026 Report",
+    "reporting_period": "2026-Q2",
+    "published_date": "2026-09-29",
+    "source_url": "https://nerc.gov.ng/resource-category/nerc-reports/",
+    "data_type": "historical",
+    "important_note": "Quarterly historical statistics, not live grid telemetry."
+  },
+  "metrics": [
+    {
+      "key": "average_available_generation_capacity_mw",
+      "label": "Average available generation capacity",
+      "value": 4454.17,
+      "unit": "MW",
+      "q1_value": 4457.96,
+      "change": -3.8,
+      "change_unit": "MW"
+    },
+    {
+      "key": "total_quarterly_generation_gwh",
+      "label": "Total quarterly generation",
+      "value": 8784.93,
+      "unit": "GWh",
+      "q1_value": 8883.47,
+      "change": -98.54,
+      "change_unit": "GWh"
+    },
+    {
+      "key": "average_hourly_generation_mwh_per_h",
+      "label": "Average hourly generation",
+      "value": 4022.4,
+      "unit": "MWh/h",
+      "q1_value": 4112.72,
+      "change": -90.32,
+      "change_unit": "MWh/h"
+    },
+    {
+      "key": "plant_availability_factor_percent",
+      "label": "Plant availability factor",
+      "value": 32.69,
+      "unit": "%",
+      "q1_value": 32.72,
+      "change": -0.03,
+      "change_unit": "percentage points"
+    },
+    {
+      "key": "generation_load_factor_percent",
+      "label": "Generation load factor",
+      "value": 90.31,
+      "unit": "%",
+      "q1_value": 92.26,
+      "change": -1.95,
+      "change_unit": "percentage points"
+    },
+    {
+      "key": "hydropower_generation_share_percent",
+      "label": "Hydropower share of generation mix",
+      "value": 34.22,
+      "unit": "%",
+      "q1_value": 36.36,
+      "change": -2.14,
+      "change_unit": "percentage points"
+    },
+    {
+      "key": "disco_energy_received_gwh",
+      "label": "Energy received by distribution companies",
+      "value": 6982.32,
+      "unit": "GWh",
+      "q1_value": 7148.47,
+      "change": -166.15,
+      "change_unit": "GWh"
+    },
+    {
+      "key": "energy_billed_gwh",
+      "label": "Energy billed to customers",
+      "value": 5812.31,
+      "unit": "GWh",
+      "q1_value": 5967.22,
+      "change": -154.91,
+      "change_unit": "GWh"
+    },
+    {
+      "key": "disco_revenue_collected_ngn_billion",
+      "label": "Revenue collected by distribution companies",
+      "value": 603.64,
+      "unit": "₦ billion",
+      "q1_value": 597.56,
+      "change": 6.08,
+      "change_unit": "₦ billion"
+    },
+    {
+      "key": "billing_efficiency_percent",
+      "label": "Cumulative billing efficiency",
+      "value": 78.67,
+      "unit": "%",
+      "q1_value": 79.24,
+      "change": -0.57,
+      "change_unit": "percentage points"
+    },
+    {
+      "key": "collection_efficiency_percent",
+      "label": "Cumulative collection efficiency",
+      "value": 81.06,
+      "unit": "%",
+      "q1_value": 78.95,
+      "change": 2.11,
+      "change_unit": "percentage points"
+    },
+    {
+      "key": "atc_and_c_loss_percent",
+      "label": "Aggregate technical, commercial and collection loss",
+      "value": 36.23,
+      "unit": "%",
+      "q1_value": 37.44,
+      "change": -1.21,
+      "change_unit": "percentage points"
+    },
+    {
+      "key": "disco_market_remittance_ngn_billion",
+      "label": "Total remitted by distribution companies to NBET and TCN/MO",
+      "value": 385.44,
+      "unit": "₦ billion",
+      "q1_value": 396.23,
+      "change": -10.79,
+      "change_unit": "₦ billion"
+    },
+    {
+      "key": "new_meters_installed",
+      "label": "New meters installed",
+      "value": 350270,
+      "unit": "meters",
+      "q1_value": 426985,
+      "change": -76715,
+      "change_unit": "meters"
+    }
+  ],
+  "plants": [
+    {
+      "plant": "Ihovbor_2",
+      "installed_capacity_mw": 461,
+      "average_available_capacity_q1_mw": 453.95,
+      "average_available_capacity_q2_mw": 459.4,
+      "plant_availability_factor_q1_percent": 98.47,
+      "plant_availability_factor_q2_percent": 99.65,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    },
+    {
+      "plant": "Ikeja_1",
+      "installed_capacity_mw": 110,
+      "average_available_capacity_q1_mw": 107.48,
+      "average_available_capacity_q2_mw": 108.97,
+      "plant_availability_factor_q1_percent": 97.71,
+      "plant_availability_factor_q2_percent": 99.06,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    },
+    {
+      "plant": "Jebba_1",
+      "installed_capacity_mw": 578,
+      "average_available_capacity_q1_mw": 417.78,
+      "average_available_capacity_q2_mw": 400.5,
+      "plant_availability_factor_q1_percent": 72.28,
+      "plant_availability_factor_q2_percent": 69.29,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    },
+    {
+      "plant": "Kainji_1",
+      "installed_capacity_mw": 760,
+      "average_available_capacity_q1_mw": 539.37,
+      "average_available_capacity_q2_mw": 429.25,
+      "plant_availability_factor_q1_percent": 70.97,
+      "plant_availability_factor_q2_percent": 56.48,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    },
+    {
+      "plant": "Okpai_1",
+      "installed_capacity_mw": 480,
+      "average_available_capacity_q1_mw": 265.1,
+      "average_available_capacity_q2_mw": 261.84,
+      "plant_availability_factor_q1_percent": 55.23,
+      "plant_availability_factor_q2_percent": 54.55,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    },
+    {
+      "plant": "Dadin-Kowa_1",
+      "installed_capacity_mw": 40,
+      "average_available_capacity_q1_mw": 17.0,
+      "average_available_capacity_q2_mw": 20.24,
+      "plant_availability_factor_q1_percent": 42.5,
+      "plant_availability_factor_q2_percent": 50.59,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    },
+    {
+      "plant": "Shiroro_1",
+      "installed_capacity_mw": 600,
+      "average_available_capacity_q1_mw": 297.08,
+      "average_available_capacity_q2_mw": 290.91,
+      "plant_availability_factor_q1_percent": 49.51,
+      "plant_availability_factor_q2_percent": 48.48,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    },
+    {
+      "plant": "Zungeru_1",
+      "installed_capacity_mw": 700,
+      "average_available_capacity_q1_mw": 314.42,
+      "average_available_capacity_q2_mw": 328.52,
+      "plant_availability_factor_q1_percent": 44.92,
+      "plant_availability_factor_q2_percent": 46.93,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    },
+    {
+      "plant": "Igbafo_1",
+      "installed_capacity_mw": 45,
+      "average_available_capacity_q1_mw": 16.92,
+      "average_available_capacity_q2_mw": 21.11,
+      "plant_availability_factor_q1_percent": 37.61,
+      "plant_availability_factor_q2_percent": 46.92,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    },
+    {
+      "plant": "Afam_2",
+      "installed_capacity_mw": 650,
+      "average_available_capacity_q1_mw": 206.27,
+      "average_available_capacity_q2_mw": 294.23,
+      "plant_availability_factor_q1_percent": 31.73,
+      "plant_availability_factor_q2_percent": 45.27,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    },
+    {
+      "plant": "Delta_1",
+      "installed_capacity_mw": 900,
+      "average_available_capacity_q1_mw": 375.68,
+      "average_available_capacity_q2_mw": 401.03,
+      "plant_availability_factor_q1_percent": 41.74,
+      "plant_availability_factor_q2_percent": 44.56,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    },
+    {
+      "plant": "Omotosho_1",
+      "installed_capacity_mw": 335,
+      "average_available_capacity_q1_mw": 84.11,
+      "average_available_capacity_q2_mw": 143.76,
+      "plant_availability_factor_q1_percent": 25.11,
+      "plant_availability_factor_q2_percent": 42.91,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    },
+    {
+      "plant": "Olorunsogo_1",
+      "installed_capacity_mw": 335,
+      "average_available_capacity_q1_mw": 83.14,
+      "average_available_capacity_q2_mw": 136.53,
+      "plant_availability_factor_q1_percent": 24.82,
+      "plant_availability_factor_q2_percent": 40.75,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    },
+    {
+      "plant": "Egbin_1",
+      "installed_capacity_mw": 1320,
+      "average_available_capacity_q1_mw": 540.96,
+      "average_available_capacity_q2_mw": 521.44,
+      "plant_availability_factor_q1_percent": 40.98,
+      "plant_availability_factor_q2_percent": 39.5,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    },
+    {
+      "plant": "Geregu_2",
+      "installed_capacity_mw": 435,
+      "average_available_capacity_q1_mw": 115.68,
+      "average_available_capacity_q2_mw": 102.64,
+      "plant_availability_factor_q1_percent": 26.59,
+      "plant_availability_factor_q2_percent": 23.6,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    },
+    {
+      "plant": "Odukpani_1",
+      "installed_capacity_mw": 625,
+      "average_available_capacity_q1_mw": 141.41,
+      "average_available_capacity_q2_mw": 128.25,
+      "plant_availability_factor_q1_percent": 22.63,
+      "plant_availability_factor_q2_percent": 20.52,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    },
+    {
+      "plant": "Omoku_1",
+      "installed_capacity_mw": 150,
+      "average_available_capacity_q1_mw": 30.27,
+      "average_available_capacity_q2_mw": 30.5,
+      "plant_availability_factor_q1_percent": 20.18,
+      "plant_availability_factor_q2_percent": 20.33,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    },
+    {
+      "plant": "Ihovbor_1",
+      "installed_capacity_mw": 500,
+      "average_available_capacity_q1_mw": 65.5,
+      "average_available_capacity_q2_mw": 81.68,
+      "plant_availability_factor_q1_percent": 13.1,
+      "plant_availability_factor_q2_percent": 16.34,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    },
+    {
+      "plant": "Omotosho_2",
+      "installed_capacity_mw": 500,
+      "average_available_capacity_q1_mw": 30.73,
+      "average_available_capacity_q2_mw": 81.38,
+      "plant_availability_factor_q1_percent": 6.15,
+      "plant_availability_factor_q2_percent": 16.28,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    },
+    {
+      "plant": "Trans Amadi_1",
+      "installed_capacity_mw": 100,
+      "average_available_capacity_q1_mw": 8.41,
+      "average_available_capacity_q2_mw": 15.21,
+      "plant_availability_factor_q1_percent": 8.41,
+      "plant_availability_factor_q2_percent": 15.21,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    },
+    {
+      "plant": "Ibom power_1",
+      "installed_capacity_mw": 190,
+      "average_available_capacity_q1_mw": 5.08,
+      "average_available_capacity_q2_mw": 24.03,
+      "plant_availability_factor_q1_percent": 2.67,
+      "plant_availability_factor_q2_percent": 12.65,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    },
+    {
+      "plant": "Olorunsogo_2",
+      "installed_capacity_mw": 750,
+      "average_available_capacity_q1_mw": 113.8,
+      "average_available_capacity_q2_mw": 83.02,
+      "plant_availability_factor_q1_percent": 15.17,
+      "plant_availability_factor_q2_percent": 11.07,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    },
+    {
+      "plant": "Rivers_1",
+      "installed_capacity_mw": 180,
+      "average_available_capacity_q1_mw": 3.68,
+      "average_available_capacity_q2_mw": 12.35,
+      "plant_availability_factor_q1_percent": 2.05,
+      "plant_availability_factor_q2_percent": 6.86,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    },
+    {
+      "plant": "Alaoji_1",
+      "installed_capacity_mw": 500,
+      "average_available_capacity_q1_mw": 0.0,
+      "average_available_capacity_q2_mw": 23.2,
+      "plant_availability_factor_q1_percent": 0.0,
+      "plant_availability_factor_q2_percent": 4.64,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    },
+    {
+      "plant": "Sapele_2",
+      "installed_capacity_mw": 500,
+      "average_available_capacity_q1_mw": 52.24,
+      "average_available_capacity_q2_mw": 16.8,
+      "plant_availability_factor_q1_percent": 10.45,
+      "plant_availability_factor_q2_percent": 3.36,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    },
+    {
+      "plant": "Afam_1",
+      "installed_capacity_mw": 726,
+      "average_available_capacity_q1_mw": 71.91,
+      "average_available_capacity_q2_mw": 20.91,
+      "plant_availability_factor_q1_percent": 9.91,
+      "plant_availability_factor_q2_percent": 2.88,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    },
+    {
+      "plant": "Sapele Steam_1",
+      "installed_capacity_mw": 720,
+      "average_available_capacity_q1_mw": 19.26,
+      "average_available_capacity_q2_mw": 14.03,
+      "plant_availability_factor_q1_percent": 2.67,
+      "plant_availability_factor_q2_percent": 1.95,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    },
+    {
+      "plant": "Geregu_1",
+      "installed_capacity_mw": 435,
+      "average_available_capacity_q1_mw": 80.72,
+      "average_available_capacity_q2_mw": 2.44,
+      "plant_availability_factor_q1_percent": 18.56,
+      "plant_availability_factor_q2_percent": 0.56,
+      "reporting_period": "2026-Q2",
+      "data_type": "historical"
+    }
+  ]
+}
